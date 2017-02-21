@@ -1,3 +1,4 @@
 title = "ssgaas.com Blog"
 baseURL = "https://ssgaas.github.io/blog"
 languageCode = "en-us"
+theme = "ssgaas"
