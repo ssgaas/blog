@@ -13,8 +13,6 @@
         {{ range $index, $page := $paginator.Pages }}
             {{ .Render "li" }}
 		{{ end }}
-
-        {{ partial "pagination.html" $paginator }}
     </div>
   </div>
 </div>
